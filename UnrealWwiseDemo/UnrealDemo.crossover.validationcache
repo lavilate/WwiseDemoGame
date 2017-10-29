@@ -5,7 +5,7 @@
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Actor-Mixer Hierarchy\MatineeDemo.wwu" DateLow="2131392128" DateHigh="30625807"/>
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Actor-Mixer Hierarchy\RTPCDemo.wwu" DateLow="2131392128" DateHigh="30625807"/>
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Actor-Mixer Hierarchy\SwitchDemo.wwu" DateLow="2131392128" DateHigh="30625807"/>
-	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Actor-Mixer Hierarchy\Weapon.wwu" DateLow="2131392128" DateHigh="30625807"/>
+	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Actor-Mixer Hierarchy\Weapon.wwu" DateLow="557344256" DateHigh="30625989"/>
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Attenuations\Default Work Unit.wwu" DateLow="2131392128" DateHigh="30625807"/>
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Audio Devices\Default Work Unit.wwu" DateLow="2141392128" DateHigh="30625807"/>
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Control Surface Sessions\Default Work Unit.wwu" DateLow="2141392128" DateHigh="30625807"/>
@@ -14,10 +14,10 @@
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Dynamic Dialogue\Default Work Unit.wwu" DateLow="2141392128" DateHigh="30625807"/>
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Effects\Default Work Unit.wwu" DateLow="2141392128" DateHigh="30625807"/>
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Effects\Factory Effects.wwu" DateLow="2141392128" DateHigh="30625807"/>
-	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Events\Default Work Unit.wwu" DateLow="2141392128" DateHigh="30625807"/>
+	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Events\Default Work Unit.wwu" DateLow="3642573184" DateHigh="30625996"/>
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Game Parameters\Default Work Unit.wwu" DateLow="2141392128" DateHigh="30625807"/>
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="2141392128" DateHigh="30625807"/>
-	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2141392128" DateHigh="30625807"/>
+	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3252573184" DateHigh="30625996"/>
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Mixing Sessions\Default Work Unit.wwu" DateLow="2131392128" DateHigh="30625807"/>
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Modulators\Default Work Unit.wwu" DateLow="2141392128" DateHigh="30625807"/>
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Presets\Default Work Unit.wwu" DateLow="2141392128" DateHigh="30625807"/>
@@ -28,6 +28,7 @@
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\States\Default Work Unit.wwu" DateLow="2141392128" DateHigh="30625807"/>
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Switches\Default Work Unit.wwu" DateLow="2141392128" DateHigh="30625807"/>
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Triggers\Default Work Unit.wwu" DateLow="2141392128" DateHigh="30625807"/>
+	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\UnrealDemo.crossover.wsettings" DateLow="1892573184" DateHigh="30625996"/>
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\UnrealDemo.wproj" DateLow="2131392128" DateHigh="30625807"/>
 	<ValidationCacheItem File="Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\Virtual Acoustics\Default Work Unit.wwu" DateLow="2141392128" DateHigh="30625807"/>
 </ValidationCache>

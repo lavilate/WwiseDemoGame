@@ -1,0 +1,188 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Switch",
+  "BasePlatform": "Switch",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "125",
+  "RootPaths": {
+   "ProjectRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/",
+   "SourceFilesRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/.cache/Switch/",
+   "SoundBanksRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/z:/Users/Satoshi/Documents/Unreal Projects/WwiseDemoGame/Content/WwiseAudio/Switch/",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "Y:\\Documents\\Unreal Projects\\WwiseDemoGame\\UnrealWwiseDemo\\GeneratedSoundBanks\\Switch"
+  },
+  "DialogueEvents": [],
+  "StreamedFiles": [
+   {
+    "Id": "903830747",
+    "Language": "SFX",
+    "ShortName": "Shotgun_Fire_01.wav",
+    "Path": "SFX/Shotgun_Fire_01_53CEE377.wem"
+   }
+  ],
+  "MediaFilesNotInAnyBank": [],
+  "SoundBanks": [
+   {
+    "Id": "1081277057",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\AmbientBank",
+    "ShortName": "AmbientBank",
+    "Path": "AmbientBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3879965597",
+      "Name": "AmbientNoise_NotSpatialized",
+      "ObjectPath": "\\Events\\Default Work Unit\\Folder\\AmbientNoise_NotSpatialized",
+      "MaxAttenuation": "400.000000",
+      "DurationType": "Infinite"
+     },
+     {
+      "Id": "2598391116",
+      "Name": "AmbientNoise_Spatialized",
+      "ObjectPath": "\\Events\\Default Work Unit\\Folder\\AmbientNoise_Spatialized",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "Infinite"
+     }
+    ]
+   },
+   {
+    "Id": "1355168291",
+    "Language": "SFX",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   },
+   {
+    "Id": "1410510952",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\MatineeBank",
+    "ShortName": "MatineeBank",
+    "Path": "MatineeBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "995648151",
+      "Name": "Closed_Hi_Hat",
+      "ObjectPath": "\\Events\\Default Work Unit\\Folder\\Closed_Hi_Hat",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.050000",
+      "DurationMax": "0.050000"
+     },
+     {
+      "Id": "2181839183",
+      "Name": "Kick",
+      "ObjectPath": "\\Events\\Default Work Unit\\Folder\\Kick",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.200000",
+      "DurationMax": "0.200000"
+     },
+     {
+      "Id": "3607016552",
+      "Name": "Snare",
+      "ObjectPath": "\\Events\\Default Work Unit\\Folder\\Snare",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.200000",
+      "DurationMax": "0.200000"
+     }
+    ]
+   },
+   {
+    "Id": "2001541346",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\VelocityBank",
+    "ShortName": "VelocityBank",
+    "Path": "VelocityBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3368745218",
+      "Name": "VelocityLoop",
+      "ObjectPath": "\\Events\\Default Work Unit\\Folder\\VelocityLoop",
+      "DurationType": "Infinite"
+     }
+    ]
+   },
+   {
+    "Id": "3002061887",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SwitchBank",
+    "ShortName": "SwitchBank",
+    "Path": "SwitchBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "2869718074",
+      "Name": "Play_Tone",
+      "ObjectPath": "\\Events\\Default Work Unit\\Folder\\Play_Tone",
+      "DurationType": "OneShot",
+      "DurationMin": "1.000000",
+      "DurationMax": "1.000000"
+     }
+    ]
+   },
+   {
+    "Id": "4086805997",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\TestSpatialAudioBank",
+    "ShortName": "TestSpatialAudioBank",
+    "Path": "TestSpatialAudioBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "327029779",
+      "Name": "PlayLateReverbTest",
+      "ObjectPath": "\\Events\\Default Work Unit\\PlayLateReverbTest",
+      "DurationType": "OneShot",
+      "DurationMin": "1.338833",
+      "DurationMax": "1.338833"
+     },
+     {
+      "Id": "3332808381",
+      "Name": "PlayPortalTest",
+      "ObjectPath": "\\Events\\Default Work Unit\\PlayPortalTest",
+      "DurationType": "OneShot",
+      "DurationMin": "1.338833",
+      "DurationMax": "1.338833"
+     },
+     {
+      "Id": "2586140731",
+      "Name": "PlayReferenceSoundTest",
+      "ObjectPath": "\\Events\\Default Work Unit\\PlayReferenceSoundTest",
+      "DurationType": "OneShot",
+      "DurationMin": "1.338833",
+      "DurationMax": "1.338833"
+     }
+    ],
+    "IncludedMemoryFiles": [
+     {
+      "Id": "903830747",
+      "Language": "SFX",
+      "ShortName": "Shotgun_Fire_01.wav",
+      "Path": "SFX/Shotgun_Fire_01_53CEE377.wem"
+     }
+    ]
+   },
+   {
+    "Id": "4208475951",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\ReverbBank",
+    "ShortName": "ReverbBank",
+    "Path": "ReverbBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "1730369216",
+      "Name": "Fire_Weapon",
+      "ObjectPath": "\\Events\\Default Work Unit\\Folder\\Fire_Weapon",
+      "DurationType": "OneShot",
+      "DurationMin": "1.338833",
+      "DurationMax": "1.338833"
+     }
+    ],
+    "ReferencedStreamedFiles": [
+     {
+      "Id": "903830747"
+     }
+    ]
+   }
+  ]
+ }
+}

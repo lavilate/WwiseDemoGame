@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Switch" BasePlatform="Switch" SchemaVersion="11" SoundbankVersion="125">
+	<RootPaths>
+		<ProjectRoot>/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/</ProjectRoot>
+		<SourceFilesRoot>/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/.cache/Switch/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/z:/Users/Satoshi/Documents/Unreal Projects/WwiseDemoGame/Content/WwiseAudio/Switch/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\GeneratedSoundBanks\Switch</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="1410510952" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\MatineeBank</ObjectPath>
+			<ShortName>MatineeBank</ShortName>
+			<Path>MatineeBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="995648151" Name="Closed_Hi_Hat" ObjectPath="\Events\Default Work Unit\Folder\Closed_Hi_Hat" MaxAttenuation="1500.000000" DurationType="OneShot" DurationMin="0.050000" DurationMax="0.050000"/>
+				<Event Id="2181839183" Name="Kick" ObjectPath="\Events\Default Work Unit\Folder\Kick" MaxAttenuation="1500.000000" DurationType="OneShot" DurationMin="0.200000" DurationMax="0.200000"/>
+				<Event Id="3607016552" Name="Snare" ObjectPath="\Events\Default Work Unit\Folder\Snare" MaxAttenuation="1500.000000" DurationType="OneShot" DurationMin="0.200000" DurationMax="0.200000"/>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

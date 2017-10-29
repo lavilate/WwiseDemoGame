@@ -1,0 +1,32 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "125",
+  "RootPaths": {
+   "ProjectRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/",
+   "SourceFilesRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/.cache/Mac/",
+   "SoundBanksRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/z:/Users/Satoshi/Documents/Unreal Projects/WwiseDemoGame/Content/WwiseAudio/Mac/",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "Y:\\Documents\\Unreal Projects\\WwiseDemoGame\\UnrealWwiseDemo\\GeneratedSoundBanks\\Mac"
+  },
+  "SoundBanks": [
+   {
+    "Id": "2001541346",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\VelocityBank",
+    "ShortName": "VelocityBank",
+    "Path": "VelocityBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3368745218",
+      "Name": "VelocityLoop",
+      "ObjectPath": "\\Events\\Default Work Unit\\Folder\\VelocityLoop",
+      "DurationType": "Infinite"
+     }
+    ]
+   }
+  ]
+ }
+}

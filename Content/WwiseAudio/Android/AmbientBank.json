@@ -1,0 +1,40 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Android",
+  "BasePlatform": "Android",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "125",
+  "RootPaths": {
+   "ProjectRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/",
+   "SourceFilesRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/.cache/Android/",
+   "SoundBanksRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/z:/Users/Satoshi/Documents/Unreal Projects/WwiseDemoGame/Content/WwiseAudio/Android/",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "Y:\\Documents\\Unreal Projects\\WwiseDemoGame\\UnrealWwiseDemo\\GeneratedSoundBanks\\Android"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1081277057",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\AmbientBank",
+    "ShortName": "AmbientBank",
+    "Path": "AmbientBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3879965597",
+      "Name": "AmbientNoise_NotSpatialized",
+      "ObjectPath": "\\Events\\Default Work Unit\\Folder\\AmbientNoise_NotSpatialized",
+      "MaxAttenuation": "400.000000",
+      "DurationType": "Infinite"
+     },
+     {
+      "Id": "2598391116",
+      "Name": "AmbientNoise_Spatialized",
+      "ObjectPath": "\\Events\\Default Work Unit\\Folder\\AmbientNoise_Spatialized",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "Infinite"
+     }
+    ]
+   }
+  ]
+ }
+}

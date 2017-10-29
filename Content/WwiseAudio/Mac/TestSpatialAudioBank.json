@@ -1,0 +1,58 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "125",
+  "RootPaths": {
+   "ProjectRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/",
+   "SourceFilesRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/.cache/Mac/",
+   "SoundBanksRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/z:/Users/Satoshi/Documents/Unreal Projects/WwiseDemoGame/Content/WwiseAudio/Mac/",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "Y:\\Documents\\Unreal Projects\\WwiseDemoGame\\UnrealWwiseDemo\\GeneratedSoundBanks\\Mac"
+  },
+  "SoundBanks": [
+   {
+    "Id": "4086805997",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\TestSpatialAudioBank",
+    "ShortName": "TestSpatialAudioBank",
+    "Path": "TestSpatialAudioBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "327029779",
+      "Name": "PlayLateReverbTest",
+      "ObjectPath": "\\Events\\Default Work Unit\\PlayLateReverbTest",
+      "DurationType": "OneShot",
+      "DurationMin": "1.338833",
+      "DurationMax": "1.338833"
+     },
+     {
+      "Id": "3332808381",
+      "Name": "PlayPortalTest",
+      "ObjectPath": "\\Events\\Default Work Unit\\PlayPortalTest",
+      "DurationType": "OneShot",
+      "DurationMin": "1.338833",
+      "DurationMax": "1.338833"
+     },
+     {
+      "Id": "2586140731",
+      "Name": "PlayReferenceSoundTest",
+      "ObjectPath": "\\Events\\Default Work Unit\\PlayReferenceSoundTest",
+      "DurationType": "OneShot",
+      "DurationMin": "1.338833",
+      "DurationMax": "1.338833"
+     }
+    ],
+    "IncludedMemoryFiles": [
+     {
+      "Id": "903830747",
+      "Language": "SFX",
+      "ShortName": "Shotgun_Fire_01.wav",
+      "Path": "SFX/Shotgun_Fire_01_53CEE377.wem"
+     }
+    ]
+   }
+  ]
+ }
+}

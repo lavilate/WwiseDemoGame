@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1730369216	Fire_Weapon			\Default Work Unit\Fire_Weapon	
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	903830747	Shotgun_Fire_01	Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\.cache\iOS\SFX\Shotgun_Fire_01_53CEE377.wem	903830747.wem	\Actor-Mixer Hierarchy\Weapon\Shotgun_Fire_01	
+

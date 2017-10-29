@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="XboxOne" BasePlatform="XboxOne" SchemaVersion="11" SoundbankVersion="125">
+	<RootPaths>
+		<ProjectRoot>/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/</ProjectRoot>
+		<SourceFilesRoot>/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/.cache/XboxOne/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/z:/Users/Satoshi/Documents/Unreal Projects/WwiseDemoGame/Content/WwiseAudio/XboxOne/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\GeneratedSoundBanks\XboxOne</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="1081277057" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\AmbientBank</ObjectPath>
+			<ShortName>AmbientBank</ShortName>
+			<Path>AmbientBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3879965597" Name="AmbientNoise_NotSpatialized" ObjectPath="\Events\Default Work Unit\Folder\AmbientNoise_NotSpatialized" MaxAttenuation="400.000000" DurationType="Infinite"/>
+				<Event Id="2598391116" Name="AmbientNoise_Spatialized" ObjectPath="\Events\Default Work Unit\Folder\AmbientNoise_Spatialized" MaxAttenuation="1500.000000" DurationType="Infinite"/>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

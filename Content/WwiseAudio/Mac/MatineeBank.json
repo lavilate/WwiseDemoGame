@@ -1,0 +1,53 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "125",
+  "RootPaths": {
+   "ProjectRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/",
+   "SourceFilesRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/.cache/Mac/",
+   "SoundBanksRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/z:/Users/Satoshi/Documents/Unreal Projects/WwiseDemoGame/Content/WwiseAudio/Mac/",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "Y:\\Documents\\Unreal Projects\\WwiseDemoGame\\UnrealWwiseDemo\\GeneratedSoundBanks\\Mac"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1410510952",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\MatineeBank",
+    "ShortName": "MatineeBank",
+    "Path": "MatineeBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "995648151",
+      "Name": "Closed_Hi_Hat",
+      "ObjectPath": "\\Events\\Default Work Unit\\Folder\\Closed_Hi_Hat",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.050000",
+      "DurationMax": "0.050000"
+     },
+     {
+      "Id": "2181839183",
+      "Name": "Kick",
+      "ObjectPath": "\\Events\\Default Work Unit\\Folder\\Kick",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.200000",
+      "DurationMax": "0.200000"
+     },
+     {
+      "Id": "3607016552",
+      "Name": "Snare",
+      "ObjectPath": "\\Events\\Default Work Unit\\Folder\\Snare",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.200000",
+      "DurationMax": "0.200000"
+     }
+    ]
+   }
+  ]
+ }
+}

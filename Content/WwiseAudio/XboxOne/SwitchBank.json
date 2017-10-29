@@ -1,0 +1,34 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "XboxOne",
+  "BasePlatform": "XboxOne",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "125",
+  "RootPaths": {
+   "ProjectRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/",
+   "SourceFilesRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/.cache/XboxOne/",
+   "SoundBanksRoot": "/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/z:/Users/Satoshi/Documents/Unreal Projects/WwiseDemoGame/Content/WwiseAudio/XboxOne/",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "Y:\\Documents\\Unreal Projects\\WwiseDemoGame\\UnrealWwiseDemo\\GeneratedSoundBanks\\XboxOne"
+  },
+  "SoundBanks": [
+   {
+    "Id": "3002061887",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SwitchBank",
+    "ShortName": "SwitchBank",
+    "Path": "SwitchBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "2869718074",
+      "Name": "Play_Tone",
+      "ObjectPath": "\\Events\\Default Work Unit\\Folder\\Play_Tone",
+      "DurationType": "OneShot",
+      "DurationMin": "1.000000",
+      "DurationMax": "1.000000"
+     }
+    ]
+   }
+  ]
+ }
+}

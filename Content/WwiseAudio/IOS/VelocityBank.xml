@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="iOS" BasePlatform="iOS" SchemaVersion="11" SoundbankVersion="125">
+	<RootPaths>
+		<ProjectRoot>/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/</ProjectRoot>
+		<SourceFilesRoot>/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/Unreal Projects/WwiseDemoGame/UnrealWwiseDemo/.cache/iOS/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/Satoshi/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/z:/Users/Satoshi/Documents/Unreal Projects/WwiseDemoGame/Content/WwiseAudio/IOS/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>Y:\Documents\Unreal Projects\WwiseDemoGame\UnrealWwiseDemo\GeneratedSoundBanks\iOS</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="2001541346" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\VelocityBank</ObjectPath>
+			<ShortName>VelocityBank</ShortName>
+			<Path>VelocityBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3368745218" Name="VelocityLoop" ObjectPath="\Events\Default Work Unit\Folder\VelocityLoop" DurationType="Infinite"/>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
